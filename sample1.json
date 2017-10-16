@@ -1,0 +1,9 @@
+{
+  "formula": {
+    "fid": "3",
+    "math_inputtex": "W(2, k) > 2^k/k^\\varepsilon",
+    "oldId": "2459",
+    "qID": 1,
+    "title": "Van_der_Waerden's_theorem"
+  }
+}
