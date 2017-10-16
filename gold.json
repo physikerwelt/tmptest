@@ -39,7 +39,7 @@
       ]
     },
     "formula": {
-      "qID": "2",
+      "qID": 2,
       "oldId": "4050",
       "fid": "189",
       "math_inputtex": "(X,\\Sigma)",
